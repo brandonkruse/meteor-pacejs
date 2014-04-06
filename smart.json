@@ -1,0 +1,8 @@
+{
+      "name": "pace",
+      "description": "Pace: An automatic web page progress bar (version synced with pace master)",
+      "homepage": "https://github.com/brandonkruse/meteor-pacejs",
+      "author": "Brandon Kruse <brandon@bkruse.com> (http://bkruse.com)",
+      "version": "0.5.1",
+      "git": "https://github.com/brandonkruse/meteor-pacejs.git"
+}
