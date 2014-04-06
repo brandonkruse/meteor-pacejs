@@ -5,7 +5,7 @@ An automatic web page progress bar.
 
 Meteor packaging of the PaceJS Library (auto-updating). Each package version available through Meteor/Atmosphere will be synced to the upstream package version of Pace.
 
-I've included [sample CSS](https://github.com/brandonkruse/meteor-pacejs/master/blob/loadingBarExample.css) to add a simple loading bar.
+I've included [sample CSS](https://github.com/brandonkruse/meteor-pacejs/blob/master/loadingBarExample.css) to add a simple loading bar.
 
 =============
 
